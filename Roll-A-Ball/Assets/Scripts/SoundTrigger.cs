@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//https://www.youtube.com/watch?v=cXiVKPfNK1U link to where the trigger sound code comes from.
+
 public class SoundTrigger : MonoBehaviour
 {
 
